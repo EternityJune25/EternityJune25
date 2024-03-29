@@ -3,4 +3,4 @@
 - 📫 How to reach me: [Wangjvyuan2001@outlook.com](mailto:Wangjvyuan2001@outlook.com) or [Wangjvyuan2021@163.com](mailto:Wangjvyuan2021@163.com)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EternityJune25&hide=stars,prs&count&private=true&show_icons=true&theme=radical)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EternityJune25&hide=stars,prs&count_private=true&show_icons=true&theme=radical&include_all_commits=true&show_owner=true)]
