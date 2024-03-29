@@ -6,6 +6,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EternityJune25&hide=stars,prs&show_icons=true&theme=radical&include_all_commits=true&show_owner=true&rank_icon=github&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
-
 </div>
