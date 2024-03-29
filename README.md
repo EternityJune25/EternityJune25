@@ -8,7 +8,7 @@
 - 📫 How to reach me: [Wangjvyuan2001@outlook.com](mailto:Wangjvyuan2001@outlook.com) or [Wangjvyuan2021@163.com](mailto:Wangjvyuan2021@163.com)
 
 <div>
-  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=EternityJune25&hide=stars,prs&show_icons=true&theme=merko&include_all_commits=true&show_owner=true&rank_icon=github&count_private=true" alt="Xuenew's GitHub Stats">
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=EternityJune25&hide=stars,prs&show_icons=true&theme=merko&include_all_commits=true&show_owner=true&rank_icon=github&count_private=true&hide_border=true" alt="Xuenew's GitHub Stats">
 <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=EternityJune25&hide_title=true&layout=compact&theme=merko&hide_border=true" alt="Most Used Languages">
 </div>
 
