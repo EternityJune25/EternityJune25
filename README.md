@@ -9,6 +9,6 @@
 #### GitHub Stats
 <div>
   
-  <img height="130px" src="https://github-readme-stats.eternityyhs.vercel.app/api?username=EternityJune25&hide=stars,prs&show_icons=true&theme=merko&include_all_commits=true&show_owner=true&rank_icon=github&count_private=true" alt="Xuenew's GitHub Stats">
-  <img height="130px" src="https://github-readme-stats.eternityyhs.vercel.app/api/top-langs?username=EternityJune25&hide_title=true&layout=compact&theme=merko" alt="Most Used Languages">
+  <img height="130px" src="https://github-readme-stats.eternityyhs-projects.vercel.app/api?username=EternityJune25&hide=stars,prs&show_icons=true&theme=merko&include_all_commits=true&show_owner=true&rank_icon=github&count_private=true" alt="Xuenew's GitHub Stats">
+  <img height="130px" src="https://github-readme-stats.eternityyhs-projects.vercel.app/api/top-langs?username=EternityJune25&hide_title=true&layout=compact&theme=merko" alt="Most Used Languages">
 </div>
