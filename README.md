@@ -1,10 +1,10 @@
 ### Hello World!! 👋
 
-![Email Badge](https://img.shields.io/badge/Wangjvyuan2021%40163.com-red?style=flat&logo=maildotru&logoColor=blue&label=email&labelColor=gray)
+![Email Badge](https://img.shields.io/badge/yh@yohe.pro-red?style=flat&logo=maildotru&logoColor=blue&label=email&labelColor=gray)
 ![Email Badge](https://img.shields.io/badge/Wangjvyuan2001%40outlook.com-blue?style=flat&logo=maildotru&logoColor=blue&label=email&labelColor=gray)
 
 - 🔭 I’m currently working on graph and single-cell analysis.
-- 📫 How to reach me: [Wangjvyuan2001@outlook.com](mailto:Wangjvyuan2001@outlook.com) or [Wangjvyuan2021@163.com](mailto:Wangjvyuan2021@163.com)
+- 📫 How to reach me: [yh@yohe.pro](mailto:yh@yohe.pro) 
 
 #### GitHub Stats
 <div>
