@@ -8,9 +8,3 @@
 #### How to contribute
 - 🤝 I am very open to contributions and feedback! If you have any suggestions or ideas for my project, please feel free to put them in an issue and I'll respond as soon as possible.
 
-#### GitHub Stats
-<div>
-  
-  <img height="130px" src="https://github-readme-stats-three-pearl-90.vercel.app/api?username=EternityJune25&hide=stars,prs&show_icons=true&theme=merko&rank_icon=github" alt="Juyuan's GitHub Stats">
-  <img height="130px" src="https://github-readme-stats-three-pearl-90.vercel.app/api/top-langs?username=EternityJune25&hide_title=true&layout=compact&theme=merko" alt="Most Used Languages">
-</div>
