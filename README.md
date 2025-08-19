@@ -13,5 +13,5 @@
     <img src="https://skillicons.dev/icons?i=py,java,cpp,js,r,nodejs,pytorch,django,flask,spring,vue,mysql" />
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,docker,nginx,vscode,pycharm,idea,vim,anaconda,matlab,notion,md,latex,git,github" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,nginx,vscode,pycharm,idea,vim,anaconda,matlab,notion,md,latex" />
 </p>
