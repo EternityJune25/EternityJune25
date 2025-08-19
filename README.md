@@ -9,3 +9,15 @@
 #### How to contribute
 - 🤝 I am very open to contributions and feedback! If you have any suggestions or ideas for my project, please feel free to put them in an issue and I'll respond as soon as possible.
 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,js,r,nodejs,pytorch" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=django,flask,spring,vue,mysql,nginx" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,vim,anaconda,matlab,notion" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=linux,docker,md,latex" />
+</p>
