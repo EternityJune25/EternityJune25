@@ -3,7 +3,11 @@
 ![Email Badge](https://img.shields.io/badge/yh@yohe.pro-red?style=flat&logo=maildotru&logoColor=blue&label=email&labelColor=gray)
 ![Email Badge](https://img.shields.io/badge/Wangjvyuan2001%40outlook.com-blue?style=flat&logo=maildotru&logoColor=blue&label=email&labelColor=gray)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hello+World%EF%BC%81" alt="Typing SVG" /></a>
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&duration=2000&pause=500&color=82F700&background=EEFF1600&center=true&vCenter=true&multiline=true&width=435&height=70&separator=%3C&lines=I+don%E2%80%99t+follow+best+practices;+%3CI+set+them." alt="Typing SVG" />
+</a>
+</div>
 - I'm a **Digital Nomad** 🌍 and **Full-Stack Developer** 💻 passionate about creating innovative solutions and exploring the world while coding.
 - 🔭 I am working on text understanding in natural language processing, and RAG in the LLM domain.
 - 📫 How to reach me: [yh@yohe.pro](mailto:yh@yohe.pro)
