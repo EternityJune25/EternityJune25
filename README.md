@@ -11,7 +11,8 @@
 
 - I'm a **Digital Nomad** 🌍 and **Full-Stack Developer** 💻 passionate about creating innovative solutions and exploring the world while coding.
 - 🔭 I am working on text understanding in natural language processing, and RAG in the LLM domain.
-- 🎨 I also have experience in graphic design, including Photoshop and Illustrator.
+- 🎨 Full-stack by day, graphic designer by night—Photoshop and Illustrator included.
+- 🚀 Previously led a 20-human AI startup crew. Still proud no one quit because of me.
 - 📫 How to reach me: [yh@yohe.pro](mailto:yh@yohe.pro)
 #### How to contribute
 - 🤝 I am very open to contributions and feedback! If you have any suggestions or ideas for my project, please feel free to put them in an issue and I'll respond as soon as possible.
