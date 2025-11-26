@@ -11,13 +11,14 @@
 
 - I'm a **Digital Nomad** 🌍 and **Full-Stack Developer** 💻 passionate about creating innovative solutions and exploring the world while coding.
 - 🔭 I am working on text understanding in natural language processing, and RAG in the LLM domain.
+- 🎨 I also have experience in graphic design, including Photoshop and Illustrator.
 - 📫 How to reach me: [yh@yohe.pro](mailto:yh@yohe.pro)
 #### How to contribute
 - 🤝 I am very open to contributions and feedback! If you have any suggestions or ideas for my project, please feel free to put them in an issue and I'll respond as soon as possible.
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,js,r,nodejs,pytorch,django,flask,spring,vue,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,js,r,nodejs,pytorch,django,flask,spring,vue,mysql,ps" />
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,docker,nginx,vscode,pycharm,idea,vim,anaconda,matlab,notion,md,latex" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,nginx,vscode,pycharm,idea,vim,anaconda,matlab,notion,md,latex,ai" />
 </p>
