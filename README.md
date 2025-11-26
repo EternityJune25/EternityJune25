@@ -9,7 +9,7 @@
 </a>
 </div>
 
-- I'm a Digital Nomad 🌍, Full-Stack Developer 💻, and occasional graphic designer 🎨, passionate about creating innovative solutions and exploring the world while coding.
+- I'm a <strong>Digital Nomad</strong> 🌍, <strong>Full-Stack Developer</strong> 💻, and <strong>Graphic Designer</strong> 🎨 — passionate about creating innovative solutions and exploring the world while coding.
 - 🔭 I am working on text understanding in natural language processing, and RAG in the LLM domain.
 - 🎨 Full-stack by day, graphic designer by night—Photoshop and Illustrator included.
 - 🚀 Previously led a 20-human AI startup crew. Still proud no one quit because of me.
