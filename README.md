@@ -9,13 +9,12 @@
 </a>
 </div>
 
-I'm a <strong>Digital Nomad</strong> 🌍, <strong>Full-Stack Developer</strong> 💻, and <strong>Graphic Designer</strong> 🎨 — passionate about creating innovative solutions and exploring the world while coding.
-
-🔭 I am working on text understanding in natural language processing, and RAG in the LLM domain.
-🎨 Full-stack by day, visual tinkerer by night — web design, academic figures, data graphics, posters, ticket designs, covers… if it can be drawn, I’m probably already sketching it.
-🚀 Previously led a 20-human AI startup crew. Still proud no one quit because of me.
-🛍️ Leveraged AI to scale a cross-border e-commerce store to 100k+ volume, snagging a "Star Seller" badge in the process.
-📫 How to reach me: yh@yohe.pro | wangjvyuan2001@gmail.com
+- I'm a <strong>Digital Nomad</strong> 🌍, <strong>Full-Stack Developer</strong> 💻, and <strong>Graphic Designer</strong> 🎨 — passionate about creating innovative solutions and exploring the world while coding.
+- 🔭 I am working on text understanding in natural language processing, and RAG in the LLM domain.
+- 🎨 Full-stack by day, visual tinkerer by night — web design, academic figures, data graphics, posters, ticket designs, covers… if it can be drawn, I’m probably already sketching it.
+- 🚀 Previously led a 20-human AI startup crew. Still proud no one quit because of me.
+- 🛍️ Leveraged AI to scale a cross-border e-commerce store to 100k+ volume, snagging a "Star Seller" badge in the process. 
+- 📫 How to reach me: [yh@yohe.pro](mailto:yh@yohe.pro) | [wangjvyuan2001@gmail.com](mailto:wangjvyuan2001@gmail.com)
 
 #### How to contribute
 - 🤝 I am very open to contributions and feedback! If you have any suggestions or ideas for my project, please feel free to put them in an issue and I'll respond as soon as possible.
