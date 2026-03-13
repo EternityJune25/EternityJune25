@@ -13,7 +13,7 @@
 - 🔭 I am working on text understanding in natural language processing, and RAG in the LLM domain.
 - 🎨 Full-stack by day, visual tinkerer by night — web design, academic figures, data graphics, posters, ticket designs, covers… if it can be drawn, I’m probably already sketching it.
 - 🚀 Previously led a 20-human AI startup crew. Still proud no one quit because of me.
-- 🛍️ 🛍️ Leveraged AI to scale a cross-border e-commerce store to 100k+ volume, snagging a "Star Seller" badge. Oh, and I also scored 100+ "Official Platform Recommendations"—a tag so notoriously hard to get it usually requires a minor miracle. I guess I overachieved.
+- 🛍️ Leveraged AI to scale a cross-border e-commerce store to 100k+ volume, snagging a "Star Seller" badge. Oh, and I also scored 100+ "Official Platform Recommendations"—a tag so notoriously hard to get it usually requires a minor miracle. I guess I overachieved.
 - 📫 How to reach me: [yh@yohe.pro](mailto:yh@yohe.pro) | [wangjvyuan2001@gmail.com](mailto:wangjvyuan2001@gmail.com)
 
 #### How to contribute
